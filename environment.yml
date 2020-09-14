@@ -1,0 +1,5 @@
+name: stanford-ai
+channels:
+- conda-forge
+dependencies:
+  - numpy

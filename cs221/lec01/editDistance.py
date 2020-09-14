@@ -1,3 +1,6 @@
+# An example of a dynamic programming algorithm
+# Dynamic Programming: recursion + memoisation
+
 def computeEditDistance(s, t):
     cache = {}  # (m, n) => result
     def recurse(m, n):
